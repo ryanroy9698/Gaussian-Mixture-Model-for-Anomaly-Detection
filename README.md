@@ -79,7 +79,4 @@ To use this project, follow these steps:
 
 ## Installation
 
-Ensure you have Python 3.6 or higher installed. Install the dependencies using the following command:
-
-```sh
-pip install -r requirements.txt
+Ensure you have Python 3.6 or higher installed
